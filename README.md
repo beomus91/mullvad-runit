@@ -1,7 +1,7 @@
 # mullvad-runit
 Mullvad service file for the Runit init system.
 ## Why
-Mullvad only officially supports the systemd init system. And for those of us who like to use different init systems, this can be a problem
+Mullvad only officially supports the systemd init system. And for those of us who like to use different init systems, this can be a problem.
 To save you the 2 minutes it would take to whip this up, I decided to put this on github.
 
 ## Script
