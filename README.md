@@ -14,3 +14,4 @@ exec '/opt/Mullvad VPN/resources/mullvad-daemon' -v --disable-stdout-timestamps
 ```
 
 like seriously i learned how to do this with one duckduckgo search...
+This has only been tested with the ```mullvad-vpn``` and ```mullvad-vpn-bin``` packages from the AUR, but these should work with most installations..
